@@ -24,7 +24,7 @@ public class Array {
     array[i]=sc.nextInt();  
   }  
   System.out.println("Array elements are: ");  
-  for (int i=0;i<n;i++)   
+  for(int i=0;i<n;i++)   
   {  
     System.out.println(array[i]);  
   }  
